@@ -1,0 +1,40 @@
+.main-content {
+  display: flex;
+  flex-direction: column-reverse;
+  margin-bottom: 2%;
+
+  @media (min-width: 768px) {
+    flex-direction: row;
+  }
+}
+
+.bio {
+  padding-left: 5%;
+  padding-top: 5%;
+  line-height: 1.4;
+  color: var(--darkcolor);
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: 'League Spartan';
+}
+
+p {
+  font-size: 1.3rem;
+  font-family: 'Roboto Slab', serif;
+}
+
+img {
+  display: flex;
+  width: 100%;
+  max-width: 80vw;
+  margin: 8%;
+  border: solid var(--darkcolor) 1rem;
+  border-radius: 5%;
+  object-fit: scale-down;
+
+  @media (min-width: 768px) {
+    max-width: 40vw;
+  }
+}

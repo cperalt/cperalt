@@ -1,0 +1,12 @@
+section {
+    margin: 5% 17%;
+}
+h1 {
+    font-size: 2.5rem;
+    font-family: 'League Spartan', 'open sans';
+}
+p {
+    font-size: 1.3rem;
+    line-height: 1.5;
+    font-family: 'Roboto Slab';
+}
