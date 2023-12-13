@@ -21,6 +21,7 @@ h1 {
 .my-details {
     line-height: 2;
     width: 100%;
+    padding-left: 5%;
 
     @media (min-width: 768px) {
     width: auto;
@@ -29,12 +30,19 @@ h1 {
 .my-details > p {
     font-size: 1.4rem;
     font-family: 'Roboto Slab';
-    color: var(--lightdark)
+    color: var(--lightdark);
+    @media (min-width: 768px) {
+        font-size: 2rem;
+    }
 }
 h2 {
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-family: 'League Spartan';
     color: var(--darkcolor);
+
+    @media (min-width: 768px) {
+        font-size: 2.5rem;
+    }
 }
 .contact-form {
     display: flex;
@@ -44,6 +52,7 @@ h2 {
 .contact-form > p {
     margin-bottom: 6%;
     font-size: 1.5rem;
+    padding-left: 5%;
 }
 form {
     margin: 1rem;
