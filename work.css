@@ -3,13 +3,12 @@ img {
   flex-direction: column;
   width: 100%;
   max-width: 80vw;
-  margin: 8%;
-  border: solid var(--darkcolor) 1rem;
+  margin: 8% auto;
+  border: solid var(--darkcolor) .8rem;
   border-radius: 5%;
-  object-fit: scale-down;
 
   @media (min-width: 768px) {
-    max-width: 40vw;
+    max-width: 80vw;
     display: flex;
   }
 }
