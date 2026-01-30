@@ -2,7 +2,7 @@
 
 # Hi, I'm Carlos Peralta
 
-**Software Engineer | Full Stack Developer | Cloud Enthusiast**
+**Full Stack Engineer | FinTech | TypeScript & React**
 
 </div>
 
@@ -14,9 +14,9 @@
 
 ### About Me
 
-- Building scalable web applications and distributed systems
-- Passionate about clean code and software architecture
-- Always learning and exploring new technologies
+- Building high-traffic financial services applications at Red Ventures
+- Developing end-to-end systems with TypeScript, React, Node.js & SQL
+- Rapidly learning new technologies to deliver production-ready solutions
 
 </td>
 <td width="50%">
@@ -41,11 +41,12 @@
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Apollo](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat&logo=apollographql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
+![Mastra AI](https://img.shields.io/badge/Mastra_AI-6366F1?style=flat&logoColor=white)
 
 **Tools & Platforms**
 
@@ -56,6 +57,10 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Nx](https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
@@ -67,15 +72,7 @@
 
 <div align="center">
 
-### Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cperalt)
-
-</div>
-
----
-
-<div align="center">
 
 ![Views](https://komarev.com/ghpvc/?username=cperalt&color=58a6ff&style=flat)
 
