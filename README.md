@@ -21,7 +21,7 @@
 </td>
 <td width="50%">
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cperalt&theme=github_dark)
+![Stats](https://github-readme-stats-six-indol-87.vercel.app/api?username=cperalt&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
 </td>
   </tr>
