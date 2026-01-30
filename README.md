@@ -21,7 +21,7 @@
 </td>
 <td width="50%">
 
-![Stats](https://github-readme-stats-six-indol-87.vercel.app/api?username=cperalt&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&v=2)
+![Stats](https://github-readme-stats-six-indol-87.vercel.app/api?username=cperalt&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&v=2&hide_rank=true&show=prs_merged&hide=issues)
 
 </td>
   </tr>
